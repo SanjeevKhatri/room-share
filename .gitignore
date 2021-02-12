@@ -6,7 +6,10 @@
 # Mac
 .DS_Store
 
-### Gradle template
+# Gradle template
 .gradle
 build/
 /out/
+
+# node
+/room-share-native/node_modules/
