@@ -1,3 +1,5 @@
 rootProject.name = 'room-share'
 
 include 'room-share-native'
+include 'room-share-service'
+
