@@ -9,7 +9,7 @@
 # Gradle template
 .gradle
 build/
-/out/
+*/out/*
 
 # node
 /room-share-native/node_modules/
